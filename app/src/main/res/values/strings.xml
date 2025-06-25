@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MoviesWithKajal</string>
+    <string name="TMDB_Movies">TMDB Movies</string>
+    <string name="search">Search</string>
+    <string name="back">Back</string>
+    <string name="poster">Poster</string>
+    <string name="movie_not_found">Movie not found</string>
+    <string name="remove_bookmark">Remove Bookmark</string>
+    <string name="trending">Trending</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="bookmarked">Bookmarked</string>
+    <string name="share">Share</string>
+    <string name="no_bookmarks">No Bookmarked Movies</string>
+    <string name="no_bookmarks_yet">No bookmarked movies yet.</string>
+    <string name="went_wrong">Something went wrong: </string>
+    <string name="popular">Popular Searches</string>
+    <string name="search_for_movie">Search for a movie…</string>
+
+</resources>
